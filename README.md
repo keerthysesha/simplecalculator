@@ -178,7 +178,8 @@ public class MainActivity extends AppCompatActivity {
 
 ![Screenshot 2024-04-13 144209](https://github.com/keerthysesha/simplecalculator/assets/125575936/4bfab175-f94d-42df-b6b5-17284685554b)
 
-![Uploading Screenshot 2024-04-13 144203.png…]()
+![Screenshot 2024-04-13 144203](https://github.com/keerthysesha/simplecalculator/assets/125575936/6af953ce-362a-43ab-840b-0228e3503eed)
+
 
 
 ## RESULT
